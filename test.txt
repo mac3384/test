@@ -1,8 +1,7 @@
-modif1
-modif2
-modif3	
-modif4
-modif5
-modif6
-modif7
-modif81
+1
+2
+3
+4
+5
+6
+7
